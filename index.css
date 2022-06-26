@@ -60,7 +60,7 @@ img {
     left: 52%;
     width: 22%;
     height: 4%;
-    border: 1vh solid #1e1e20;
+    border: .2vw solid #1e1e20;
     background-color: #e3ebbd;
     border-radius: 2vw;
     display: flex;
@@ -79,7 +79,7 @@ img {
     left: 20.5%;
     width: 23%;
     height: 4%;
-    border: 1vh solid #1e1e20;
+    border: .2vw solid #1e1e20;
     background-color: #eecaef;
     border-radius: 2vw;
     display: flex;
@@ -98,7 +98,7 @@ img {
     left: 36%;
     width: 24%;
     height: 6%;
-    border: 1vh solid #1e1e20;
+    border: .2vw solid #1e1e20;
     background-color: #c9f1f0;
     border-radius: 2vw;
     display: flex;
